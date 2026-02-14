@@ -1,5 +1,5 @@
 {
-  "name": "Node.js, Python & Live Server",
+  "name": "Node.js, Python & Live Preview",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   
   "features": {
@@ -19,7 +19,7 @@
         "ms-python.python",
         "ms-python.vscode-pylance",
         "formulahendry.code-runner",
-        "ritwickdey.LiveServer"
+        "ms-vscode.live-server"
       ],
       "settings": {
         "code-runner.runInTerminal": true,
